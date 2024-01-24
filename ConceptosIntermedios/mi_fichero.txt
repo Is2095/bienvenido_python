@@ -1,0 +1,6 @@
+Mi nombre es Pepe
+Mi apellido es Tito
+48 años
+Y mi lenguaje preferido es Python
+mi profesión es carpintero
+Y Swift

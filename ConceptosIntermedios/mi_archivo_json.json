@@ -1,0 +1,13 @@
+{
+   "nombre": "Pepe",
+   "apellido": "Tito",
+   "edad": 59,
+   "lenguaje": [
+      "Python",
+      "Swift",
+      "Kotlin",
+      "Dart",
+      "JavaScript"
+   ],
+   "website": "http:/misitio.com"
+}
