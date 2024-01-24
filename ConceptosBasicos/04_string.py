@@ -61,3 +61,5 @@ print('1'.isnumeric()) # pregunta si es un número
 print(lenguaje.lower()) # pone todo en minúsculas
 print(lenguaje.upper().isupper()) # pone todo en mayúsculas y pregunta si está en mayúsculas
 print(lenguaje.startswith('Py')) # comprueba si el string empieza con lo que se pone entre (), distingue mayúsculas y minúsculas
+
+print(sorted(lenguaje)) # hace una lista, separa las letras y las ordena alfabeticamente.
